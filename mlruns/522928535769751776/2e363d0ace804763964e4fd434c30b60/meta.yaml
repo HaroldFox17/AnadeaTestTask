@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Pet%20Projects/Anadea/mlruns/522928535769751776/2e363d0ace804763964e4fd434c30b60/artifacts
+end_time: 1724677342323
+entry_point_name: ''
+experiment_id: '522928535769751776'
+lifecycle_stage: active
+run_id: 2e363d0ace804763964e4fd434c30b60
+run_name: funny-ant-139
+run_uuid: 2e363d0ace804763964e4fd434c30b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724677340138
+status: 4
+tags: []
+user_id: user

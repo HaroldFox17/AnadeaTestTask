@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Pet%20Projects/Anadea/mlruns/522928535769751776/bc64cc2b069148fa8911b8daf8aea07d/artifacts
+end_time: 1724683658716
+entry_point_name: ''
+experiment_id: '522928535769751776'
+lifecycle_stage: active
+run_id: bc64cc2b069148fa8911b8daf8aea07d
+run_name: abundant-quail-595
+run_uuid: bc64cc2b069148fa8911b8daf8aea07d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724682782329
+status: 4
+tags: []
+user_id: user

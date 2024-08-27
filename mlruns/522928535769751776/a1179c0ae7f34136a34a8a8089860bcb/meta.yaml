@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Pet%20Projects/Anadea/mlruns/522928535769751776/a1179c0ae7f34136a34a8a8089860bcb/artifacts
+end_time: 1724697587744
+entry_point_name: ''
+experiment_id: '522928535769751776'
+lifecycle_stage: active
+run_id: a1179c0ae7f34136a34a8a8089860bcb
+run_name: able-pug-323
+run_uuid: a1179c0ae7f34136a34a8a8089860bcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724693719791
+status: 4
+tags: []
+user_id: user

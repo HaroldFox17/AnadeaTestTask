@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Pet%20Projects/Anadea/mlruns/522928535769751776/23281ee3a55f41f5ab333bb657ba03af/artifacts
+end_time: 1724677594872
+entry_point_name: ''
+experiment_id: '522928535769751776'
+lifecycle_stage: active
+run_id: 23281ee3a55f41f5ab333bb657ba03af
+run_name: luminous-shrew-557
+run_uuid: 23281ee3a55f41f5ab333bb657ba03af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724677529523
+status: 4
+tags: []
+user_id: user
